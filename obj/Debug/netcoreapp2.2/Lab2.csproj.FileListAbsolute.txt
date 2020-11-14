@@ -1,0 +1,158 @@
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.csprojAssemblyReference.cache
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorAssemblyInfo.cache
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorAssemblyInfo.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.AssemblyInfoInputs.cache
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.AssemblyInfo.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.TagHelpers.input.cache
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.TagHelpers.output.cache
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorCoreGenerate.cache
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Product\Add.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Product\Delete.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Product\Edit.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorTargetAssemblyInfo.cache
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorTargetAssemblyInfo.cs
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.dll
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.pdb
+C:\Users\tanqu\Desktop\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.deps.json
+C:\Users\tanqu\Desktop\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.runtimeconfig.json
+C:\Users\tanqu\Desktop\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.runtimeconfig.dev.json
+C:\Users\tanqu\Desktop\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.dll
+C:\Users\tanqu\Desktop\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.pdb
+C:\Users\tanqu\Desktop\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.Views.dll
+C:\Users\tanqu\Desktop\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.Views.pdb
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.Views.pdb
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.csproj.CopyComplete
+C:\Users\tanqu\Desktop\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Detail\Index.g.cshtml.cs
+D:\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.deps.json
+D:\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.runtimeconfig.json
+D:\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.runtimeconfig.dev.json
+D:\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.dll
+D:\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.pdb
+D:\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.Views.dll
+D:\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.Views.pdb
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.csproj.CoreCompileInputs.cache
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorAssemblyInfo.cache
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorAssemblyInfo.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.AssemblyInfoInputs.cache
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.AssemblyInfo.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.TagHelpers.input.cache
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.TagHelpers.output.cache
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorCoreGenerate.cache
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Product\Add.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Product\Delete.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Product\Edit.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Product\Index.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Index.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Pay.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Detail\Index.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Iphone.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Oppo.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\SamSung.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Search.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Xiaomi.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorTargetAssemblyInfo.cache
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorTargetAssemblyInfo.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.Views.pdb
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.dll
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.pdb
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.csproj.CopyComplete
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.csprojAssemblyReference.cache
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AdminUser\Index.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Categories\Index.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Categories\Create.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Categories\Edit.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Categories\Delete.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AdminUser\Edit.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AdminUser\Delete.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Cart\OrderConfirm.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Order\Edit.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Order\Delete.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Order\Index.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_OrderCustomerDetails.g.cshtml.cs
+D:\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_OrderProductDetails.g.cshtml.cs
+E:\Lab2 (1)\Lab2\Lab2\bin\Debug\netcoreapp2.2\appsettings.Development.json
+E:\Lab2 (1)\Lab2\Lab2\bin\Debug\netcoreapp2.2\appsettings.json
+E:\Lab2 (1)\Lab2\Lab2\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+E:\Lab2 (1)\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.deps.json
+E:\Lab2 (1)\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.runtimeconfig.json
+E:\Lab2 (1)\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.runtimeconfig.dev.json
+E:\Lab2 (1)\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.dll
+E:\Lab2 (1)\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.pdb
+E:\Lab2 (1)\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.Views.dll
+E:\Lab2 (1)\Lab2\Lab2\bin\Debug\netcoreapp2.2\Lab2.Views.pdb
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.csprojAssemblyReference.cache
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.AssemblyInfoInputs.cache
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.AssemblyInfo.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.csproj.CoreCompileInputs.cache
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorAssemblyInfo.cache
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorAssemblyInfo.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.TagHelpers.input.cache
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.TagHelpers.output.cache
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorCoreGenerate.cache
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AdminUser\Delete.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AdminUser\Edit.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\AdminUser\Index.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Categories\Create.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Categories\Delete.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Categories\Edit.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Order\Delete.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Order\Edit.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Order\Index.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Product\Add.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Account\Login.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Account\Register.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Index.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Cart\OrderConfirm.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Cart\Pay.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Detail\Index.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Iphone.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Oppo.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\SamSung.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Search.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Home\Xiaomi.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_OrderCustomerDetails.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_OrderProductDetails.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorTargetAssemblyInfo.cache
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.RazorTargetAssemblyInfo.cs
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.Views.pdb
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.dll
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.pdb
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.genruntimeconfig.cache
+E:\Lab2 (1)\Lab2\Lab2\obj\Debug\netcoreapp2.2\Lab2.csproj.CopyComplete
